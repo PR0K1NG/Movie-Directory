@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Directory</string>
+    <string name="movie_title">Movie Directory</string>
+    <string name="search_hint">E.g Batman</string>
+</resources>
